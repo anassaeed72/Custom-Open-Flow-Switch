@@ -1,0 +1,2638 @@
+INFO:root:Starting Routing Module decision maker
+INFO:root:Starting sendingPacketFunction
+INFO:root:Sniffed Packet None
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:ff:bd:5f:d5
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:ff:bd:5f:d5
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:ff:22:22:22
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:ff:bd:5f:d5
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:ff:22:22:22
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:ff:22:22:22
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Sent
+
+
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Sent
+
+
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet None
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Sent
+
+
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Sent
+
+
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Sent
+
+
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet None
+INFO:root:Packet Sent
+
+
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Sent
+
+
+INFO:root:Sniffed Packet None
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet None
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet None
+INFO:root:Packet Sent
+
+
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:22:22:22:22:22 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:queuePacketForDecision 
+Destination MAC f:ff:ff:ff:ff:ff
+Source MAC 0:10:10:10:10:10 -
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC ae:e9:05:bd:5f:d5 
+Interface s1-eth2
+Input Port 2
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC f:ff:ff:ff:ff:ff
+Source MAC 0:10:10:10:10:10 -
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC f:ff:ff:ff:ff:ff
+Source MAC 0:10:10:10:10:10 -
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:54:03:fb:c9:85 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:queuePacketForDecision 
+Destination MAC f:ff:ff:ff:ff:ff
+Source MAC 0:10:10:10:10:10 -
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Sent
+
+
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC f:ff:ff:ff:ff:ff
+Source MAC 0:10:10:10:10:10 -
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC f:ff:ff:ff:ff:ff
+Source MAC 0:10:10:10:10:10 -
+Interface s1-eth1
+Input Port 1
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Sent
+
+
+INFO:root:Sniffed Packet None
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:queuePacketForDecision 
+Destination MAC f:ff:ff:ff:ff:ff
+Source MAC 0:10:10:10:10:10 -
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC f:ff:ff:ff:ff:ff
+Source MAC 0:10:10:10:10:10 -
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC f:ff:ff:ff:ff:ff
+Source MAC 0:10:10:10:10:10 -
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Sent
+
+
+INFO:root:Sniffed Packet None
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:queuePacketForDecision 
+Destination MAC f:ff:ff:ff:ff:ff
+Source MAC 0:10:10:10:10:10 -
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet None
+INFO:root:Sniffed Packet None
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet arrived for Decision 
+Destination MAC f:ff:ff:ff:ff:ff
+Source MAC 0:10:10:10:10:10 -
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet sent for decision 
+Destination MAC f:ff:ff:ff:ff:ff
+Source MAC 0:10:10:10:10:10 -
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet Decision 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s1-eth1
+Input Port 1
+INFO:root:Sniffed Packet None
+INFO:root:Packet getted for sending
+Destination MAC 
+Source MAC 
+Interface 
+Input Port 1
