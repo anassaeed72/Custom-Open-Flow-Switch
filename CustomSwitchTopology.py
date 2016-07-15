@@ -172,12 +172,34 @@ class CustomSwitchTopology( Topo ):
         Topo.__init__( self )
 
         # Add hosts and switches
-        leftHost = self.addHost( 'h1' )
-        rightHost = self.addHost( 'h2' )
-        switch = self.addSwitch( 's1' )
+        firstHost = self.addHost( 'h1' )
+        secondHost = self.addHost( 'h2' )
+        thirdHost = self.addHost( 'h3' )
+        fourthHost = self.addHost( 'h4' ) 
+        fifthHost = self.addHost( 'h5' )
+
+        firstSwitch = self.addSwitch( 's1' )
+        secondSwitch = self.addSwitch( 's2' )
+        thirdSwitch = self.addSwitch( 's3' )
+        fourthSwitch =self.addSwitch( 's4' )
+        fifthSwitch = self.addSwitch( 's5' )
+        sixthSwitch = self.addSwitch( 's6' )
+        seventhSwitch = self.addSwitch( 's7' )
+
         # Add links
-        self.addLink( leftHost, switch )
-        self.addLink( switch, rightHost )
+
+        self.addLink( firstSwitch, secondSwitch )
+        self.addLink( firstSwitch, thirdSwitch )
+        self.addLink( secondSwitch,fourthSwitch )
+        self.addLink( secondSwitch, fifthSwitch )
+        self.addLink( thirdSwitch, sixthSwitch )
+        self.addLink( thirdSwitch, seventhSwitch )
+        
+        self.addLink( firstHost, firstSwitch )
+        self.addLink( secondHost, fourthSwitch )
+        self.addLink( thirdHost, fifthSwitch )
+        self.addLink( fourthHost, sixthSwitch ) 
+        self.addLink( fifthHost, seventhSwitch )
 
 class CustomSwitch( Switch ):
     dpidLen = 12
@@ -185,7 +207,7 @@ class CustomSwitch( Switch ):
     def __init__( self, name, dataPathOptions='--no-slicing', **kwargs ):
         Switch.__init__( self, name, **kwargs )
         self.packetQueue  = Queue()
-        logging.basicConfig(filename="CustomSwitch.log", level=logging.INFO)
+        self.CustomSwitchLogger = self.get_logger("CustomSwitch")
     def start( self, controllers ):
         print "\n"
         count = 0
@@ -194,7 +216,6 @@ class CustomSwitch( Switch ):
             if interface.IP():
                 continue
             else:
-                # interface.setIP("198.0.0."+str(count)+"/24")
                 count = count +1
             try:
                
@@ -204,14 +225,30 @@ class CustomSwitch( Switch ):
                print e
         thread.start_new_thread(self.sendPacketFunction,())
     def packetDecision(self,routingDecisionVariables):
-        logging.info("Packet Decision " + str(routingDecisionVariables))
+        self.CustomSwitchLogger.info("Packet Decision " + str(routingDecisionVariables))
         self.packetQueue.put(routingDecisionVariables)
     def sendPacketFunction(self):
-        logging.info("Starting sendingPacketFunction")
+        with Capturing() as output:
+            self.CustomSwitchLogger.info("Starting sendingPacketFunction")
         while True:
+
             packetDecision = self.packetQueue.get()
-            logging.info("Packet getted for sending" + str(packetDecision))
+            self.CustomSwitchLogger.info("Packet getted for sending" + str(packetDecision))
             if packetDecision is None:
+                continue
+            self.CustomSwitchLogger.info("Getted after None")
+
+            if packetDecision.inputPort == -1: # Broadcast
+                for interface in self.ports.keys():
+                    if interface.name == str(packetDecision.interface):
+                        continue
+                    iface = interface.name
+                    try:
+                        with Capturing() as output:
+                            sendp(packetDecision.packet, iface=iface)
+                        self.CustomSwitchLogger.info("Packet SentCent "+ iface+"\n\n")
+                    except Exception, e:
+                        self.CustomSwitchLogger.info("SentCent " +str(iface)+"  "+str(e)) 
                 continue
             if self.intfs.get(packetDecision.inputPort) is None:
                 continue
@@ -221,10 +258,10 @@ class CustomSwitch( Switch ):
                     # pycap.inject.inject(self.intfs.get(outputPort).name).inject(packet)
                 with Capturing() as output:
                     sendp(packetDecision.packet, iface=iface)
-                    logging.info("Packet Sent\n\n")
+                    self.CustomSwitchLogger.info("Packet SentCent\n\n")
             except Exception, e:
                 # raise e  
-                self.writeDataToFile(str(iface),str(e)) 
+                self.CustomSwitchLogger.info(str(iface)+"  "+str(e)) 
     def sniffPackets(self, interface,portNumber,routingModule):
         p = pycap.capture.capture(interface.name)
         while True:
@@ -238,7 +275,7 @@ class CustomSwitch( Switch ):
             destinationMAC = self.getDestinationAddress(packet)
             routingDecisionVariables = RoutingDecisionVariables(destinationMAC,sourceMAC,interface.name,portNumber,packet)
             routingModule.queuePacketForDecision(routingDecisionVariables)
-            logging.info("Sniffed Packet sent for decision " + str(routingDecisionVariables))
+            self.CustomSwitchLogger.info("Sniffed Packet sent for decision " + str(routingDecisionVariables))
             # self.writeDataToFile(interface.name,"Packet Recieved--------------")
             # self.writeDataToFile(interface.name,str(packet))
             # self.writeDataToFile(interface.name,"\n\n")
@@ -342,7 +379,23 @@ class CustomSwitch( Switch ):
         if data[12:14]=='\x08\x00':
             decoded=self.decode_ip_packet(data[14:])
             return decoded['destination_address']
-
+    def get_logger(self,name=None):
+        default = "__app__"
+        formatter = logging.Formatter('%(levelname)s: %(asctime)s %(funcName)s(%(lineno)d) -- %(message)s',
+                                  datefmt='%Y-%m-%d %H:%M:%S')
+        log_map = {"CustomSwitch": "CustomSwitch.log"}
+        if name:
+            logger = logging.getLogger(name)
+        else:
+            logger = logging.getLogger(default)
+        fh = logging.FileHandler(log_map[name])
+        fh.setFormatter(formatter)
+        logger.addHandler(fh)
+        logger.setLevel(logging.INFO)
+        console = logging.StreamHandler()
+        console.setLevel(logging.ERROR)
+        logging.getLogger('').addHandler(console)
+        return logger
 os.system('clear')
 os.system('sudo mn -c')
 topo = CustomSwitchTopology()

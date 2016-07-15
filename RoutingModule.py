@@ -9,25 +9,40 @@ class RoutingModule(object):
 		self.packetQueue = Queue()
 		self.switchInstance = switchInstance
 		thread.start_new_thread( self.routingModuleDecisionMaker,() )
-		logging.basicConfig(filename="RoutingModule.log", level=logging.INFO)
+		self.RoutingModuleLogger  =  self.get_logger("RoutingModule")
+		# self.RoutingModuleLogger.basicConfig(filename="RoutingModule.log", level=logging.INFO)
 
 	def findOutputPort(self,destinationMAC,sourceMAC,interface, inputPort):
 		if inputPort == 1:
 			return 2
 		return 1
 	def queuePacketForDecision(self,packetInfo):
-		logging.info("queuePacketForDecision " +str(packetInfo))
+		self.RoutingModuleLogger.info("queuePacketForDecision " +str(packetInfo))
 		self.packetQueue.put(packetInfo)
 	def routingModuleDecisionMaker(self):
-		logging.info("Starting Routing Module decision maker")
+		self.RoutingModuleLogger.info("Starting Routing Module decision maker")
 		while True:
 			packetToConsider = self.packetQueue.get()
-			logging.info("Packet arrived for Decision " +str(packetToConsider))
-			port = 1
+			self.RoutingModuleLogger.info("Packet arrived for Decision " +str(packetToConsider))
+			port = -1
 			routingModuleDecisionMaker = RoutingDecisionVariables("","","",port,packetToConsider.packet)
 			self.switchInstance.packetDecision(routingModuleDecisionMaker)
-			logging.info("Packet Decision Sent " + str(routingModuleDecisionMaker))
+			self.RoutingModuleLogger.info("Packet Decision Sent " + str(routingModuleDecisionMaker))
 
+	def get_logger(self,name=None):
+	    default = "__app__"
+	    formatter = logging.Formatter('%(levelname)s: %(asctime)s %(funcName)s(%(lineno)d) -- %(message)s',
+	                              datefmt='%Y-%m-%d %H:%M:%S')
+	    log_map = {"RoutingModule": "RoutingModule.log"}
+	    if name:
+	        logger = logging.getLogger(name)
+	    else:
+	        logger = logging.getLogger(default)
+	    fh = logging.FileHandler(log_map[name])
+	    fh.setFormatter(formatter)
+	    logger.addHandler(fh)
+	    logger.setLevel(logging.INFO)
+	    return logger
 class RoutingDecisionVariables(object):
 	"""docstring for RoutingDecisionVariables"""
 	def __init__(self,destinationMAC,sourceMAC,interface, inputPort,packet):

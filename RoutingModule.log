@@ -1,0 +1,4994 @@
+INFO: 2016-07-15 12:49:41 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:41 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:41 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:41 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:41 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:41 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:41 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:41 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:41 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:41 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:42 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:41 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:41 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:41 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:41 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:41 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:42 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:42 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:42 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:42 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:42 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:42 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:43 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:43 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:43 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:43 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:43 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:43 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:43 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:43 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:45 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:45 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:45 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:45 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:45 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:45 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:45 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:45 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:45 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:45 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:45 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:45 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:45 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:45 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:41 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:41 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:41 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:41 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:41 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:41 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:45 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:45 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:45 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:45 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:45 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:45 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:45 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:44 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:44 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:44 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:44 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:44 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:44 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:44 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:42 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:47 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:47 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:49 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:46 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:50 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:50 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:47 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:49 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:47 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:49 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:49 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:46 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:46 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:47 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:46 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:50 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:50 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:50 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:50 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:47 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:ff:64:c7:05
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:47 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:49 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:46 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:49 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:47 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:46 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:47 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:ff:64:c7:05
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:49 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:49 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:46 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:49 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:ff:64:c7:05
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:46 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:50 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:47 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:50 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:50 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:46 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:50 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:50 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:50 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:49 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:50 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:46 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:47 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:49 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:50 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:47 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:47 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:49 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:46 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:47 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:49 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:46 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:ff:64:c7:05
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:46 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:49 routingModuleDecisionMaker(23) -- Starting Routing Module decision maker
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:ff:64:c7:05
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:46 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:ff:64:c7:05
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:ff:64:c7:05
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:0a:58:7f:16:00 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:0a:58:7f:16:00 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:ff:7f:16:00
+Source MAC 22:0a:58:7f:16:00 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:ff:7f:16:00
+Source MAC 22:0a:58:7f:16:00 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:0a:58:7f:16:00 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:0a:58:7f:16:00 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:0a:58:7f:16:00 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:0a:58:7f:16:00 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:0a:58:7f:16:00 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:ff:7f:16:00
+Source MAC 22:0a:58:7f:16:00 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:ff:7f:16:00
+Source MAC 22:0a:58:7f:16:00 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:ff:7f:16:00
+Source MAC 22:0a:58:7f:16:00 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:ff:7f:16:00
+Source MAC 22:0a:58:7f:16:00 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:57 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:ff:7f:16:00
+Source MAC 22:0a:58:7f:16:00 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 12:11:d5:da:e3:dc 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 12:11:d5:da:e3:dc 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 12:11:d5:da:e3:dc 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:11:b3:68:3f:63 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:11:b3:68:3f:63 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:11:b3:68:3f:63 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 22:0a:58:7f:16:00 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 22:0a:58:7f:16:00 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 22:0a:58:7f:16:00 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:11:b3:68:3f:63 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:11:b3:68:3f:63 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:11:b3:68:3f:63 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:22:22:22:22:22 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:22:22:22:22:22 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:22:22:22:22:22 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 12:11:d5:da:e3:dc 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 12:11:d5:da:e3:dc 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:11:b3:68:3f:63 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:11:b3:68:3f:63 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 22:0a:58:7f:16:00 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 22:0a:58:7f:16:00 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:11:b3:68:3f:63 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:11:b3:68:3f:63 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:22:22:22:22:22 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:22:22:22:22:22 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 12:11:d5:da:e3:dc 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:44:4e:c4:e6:aa 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 12:11:d5:da:e3:dc 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:49:58 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:ff:64:c7:05
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:ff:64:c7:05
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:ff:64:c7:05
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:ff:64:c7:05
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:ff:64:c7:05
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:ff:64:c7:05
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:ff:64:c7:05
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:22:22:22:22:22 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:22:22:22:22:22 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 10:10:10:10:10:10 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 22:0a:58:7f:16:00 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 22:0a:58:7f:16:00 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:11:b3:68:3f:63 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:11:b3:68:3f:63 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:11:b3:68:3f:63 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:49:58 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 46:11:b3:68:3f:63 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 5e:2c:62:d7:02:05 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:b4:39:e1:ee:a2 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 0a:d1:c7:f7:7a:5c 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:0a:58:7f:16:00 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 46:11:b3:68:3f:63 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 26:5d:0e:33:00:ad 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:b4:39:e1:ee:a2 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:b4:39:e1:ee:a2 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:b4:39:e1:ee:a2 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:b4:39:e1:ee:a2 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:b4:39:e1:ee:a2 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:0a:58:7f:16:00 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:13 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC 8a:bf:35:64:c7:05 
+Interface s2-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC da:b4:39:e1:ee:a2 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 46:11:b3:68:3f:63 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:0a:58:7f:16:00 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:0a:58:7f:16:00 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 12:11:d5:da:e3:dc 
+Interface s2-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:0a:58:7f:16:00 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 46:11:b3:68:3f:63 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 46:11:b3:68:3f:63 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 22:0a:58:7f:16:00 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 82:ef:60:ae:42:97 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 46:11:b3:68:3f:63 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 46:11:b3:68:3f:63 
+Interface s1-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:11:b3:68:3f:63 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(26) -- Packet arrived for Decision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:05 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:13 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:13 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:13 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:13 routingModuleDecisionMaker(30) -- Packet Decision Sent 
+Destination MAC 
+Source MAC 
+Interface 
+Input Port -1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 8a:bf:35:64:c7:05 
+Interface s5-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2a:62:77:a4:dc:b2 
+Interface s4-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s2-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:11:b3:68:3f:63 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:11:b3:68:3f:63 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:11:b3:68:3f:63 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC b2:aa:62:f2:1c:08 
+Interface s6-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:11:b3:68:3f:63 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:16
+Source MAC da:40:15:f8:5d:b9 
+Interface s7-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:a4:d2:c4:60:ce 
+Interface s3-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 46:11:b3:68:3f:63 
+Interface s3-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 28:45:74:68:65:72
+Source MAC 6e:65:74:28:74:79 
+Interface s4-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s7-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 6a:cc:c0:9e:36:1e 
+Interface s3-eth3
+Input Port 3
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 2e:cd:30:f1:ae:c0 
+Interface s6-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:13 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:02
+Source MAC 26:37:0f:33:5a:43 
+Interface s5-eth2
+Input Port 2
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC 4a:c9:b8:18:e0:5e 
+Interface s1-eth1
+Input Port 1
+INFO: 2016-07-15 12:50:14 queuePacketForDecision(20) -- queuePacketForDecision 
+Destination MAC 33:33:00:00:00:fb
+Source MAC fa:59:f9:91:f0:fc 
+Interface s1-eth3
+Input Port 3
