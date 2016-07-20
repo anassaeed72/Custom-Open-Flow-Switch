@@ -10,6 +10,7 @@ class RoutingModule(object):
 		self.switchInstance = switchInstance
 		thread.start_new_thread( self.routingModuleDecisionMaker,() )
 		self.RoutingModuleLogger  =  self.get_logger("RoutingModule")
+		self.macsToPorts={}
 		# self.RoutingModuleLogger.basicConfig(filename="RoutingModule.log", level=logging.INFO)
 
 	def findOutputPort(self,destinationMAC,sourceMAC,interface, inputPort):
@@ -24,11 +25,19 @@ class RoutingModule(object):
 		while True:
 			packetToConsider = self.packetQueue.get()
 			self.RoutingModuleLogger.info("Packet arrived for Decision " +str(packetToConsider))
+			if self.macsToPorts.has_key(packetToConsider.sourceMAC) == False:
+				self.macsToPorts[sourceMAC] = packetToConsider.inputPort
+			if packetToConsider.destinationMAC == packetToConsider.sourceMAC:
+				self.sendPacketDecisionToSwitch(packetToConsider)
+				continue
 			port = -1
+			if self.macsToPorts.has_key(packetToConsider.destinationMAC):
+				port = self.macsToPorts.get(packetToConsider.destinationMAC)
 			routingModuleDecisionMaker = RoutingDecisionVariables("","","",port,packetToConsider.packet)
-			self.switchInstance.packetDecision(routingModuleDecisionMaker)
-			self.RoutingModuleLogger.info("Packet Decision Sent " + str(routingModuleDecisionMaker))
-
+			self.sendPacketDecisionToSwitch(routingModuleDecisionMaker)
+	def sendPacketDecisionToSwitch(routingModuleDecisionMaker):
+		self.switchInstance.packetDecision(routingModuleDecisionMaker)
+		self.RoutingModuleLogger.info("Packet Decision Sent " + str(routingModuleDecisionMaker))	
 	def get_logger(self,name=None):
 	    default = "__app__"
 	    formatter = logging.Formatter('%(levelname)s: %(asctime)s %(funcName)s(%(lineno)d) -- %(message)s',
